@@ -1,0 +1,19 @@
+{
+    "Recipes": [
+        {
+            "RecipeID": 0,
+            "RecipeName": "",
+            "Description": "",
+            "DateCreated": "",
+            "LastMade": "",
+            "Steps": [],
+            "Details": {
+                "Prep": "",
+                "Cook": "",
+                "Total": "",
+                "Servings": ""
+            },
+            "ImageURL": ""
+        }
+    ]
+}
